@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model files
+*.pkl
+
+# Dataset files
+data/
+
+# Environment variables
+.env
