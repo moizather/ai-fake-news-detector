@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+numpy
+pymongo
+twilio
+python-multipart
